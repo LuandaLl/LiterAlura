@@ -1,5 +1,4 @@
-# 📚 LiterAlura - Catálogo de Livros
-
+# 📚 LiterAlura - Catálogo de Livros <img src="https://raw.githubusercontent.com/LuandaLl/LiterAlura/main/Badge-Literalura.png" alt="Badge LiterAlura" width="100" align="center">
 A aplicação permite buscar livros, salvar no banco de dados, listar autores e filtrar obras por idioma, tudo através de uma interface interativa via console.
 
 ---
